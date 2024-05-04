@@ -1,8 +1,10 @@
+---
 title: 如何使用jekyll和github page构建自己的github个人博客
 author: YuxingHe
 date: 
 categories: [Blogging, 111]
 tags: [favicon]
+---
 
 ### 一、什么是jekyll？
 
