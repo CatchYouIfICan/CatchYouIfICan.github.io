@@ -1,7 +1,7 @@
 ---
 title: 如何使用jekyll和github page构建自己的github个人博客
 author: YuxingHe
-date: 2024-05-04
+date: 2024-05-04 11:33:00 +0800
 categories: [Blogging, 111]
 tags: [favicon]
 ---
